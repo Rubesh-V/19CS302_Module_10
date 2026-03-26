@@ -1,5 +1,5 @@
 # EX 47 C function to insert a node in a linked list.
-## DATE:21/05/2025
+## DATE:26/03/2026
 ## AIM:
 To write a C function to insert a node in a linked list.
 
